@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-whitelist",
-  "version": "1.2.3-dev",
+  "name": "xenious-cordova-plugin-whitelist",
+  "version": "1.0.0",
   "description": "Cordova Whitelist Plugin",
   "cordova": {
     "platforms": [
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-whitelist"
+    "url": "https://github.com/XeniousSoftware/cordova-plugin-whitelist"
   },
   "keywords": [
     "cordova",
